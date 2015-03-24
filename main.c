@@ -9,8 +9,8 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define name "07562012052214"
-#define passwd "12206318"
+#define name "" //username
+#define passwd "" //password
 
 int getip(char* ip)
 {
